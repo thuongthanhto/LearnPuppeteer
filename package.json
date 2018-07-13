@@ -1,0 +1,23 @@
+{
+  "name": "LearnPuppeteer",
+  "version": "1.0.0",
+  "description": "Learn Puppeteer of Google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuongthanhto/LearnPuppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuongthanhto/LearnPuppeteer/issues"
+  },
+  "homepage": "https://github.com/thuongthanhto/LearnPuppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.6.0"
+  }
+}
